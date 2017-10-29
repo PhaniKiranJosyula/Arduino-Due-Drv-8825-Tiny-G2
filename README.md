@@ -5,9 +5,11 @@ The "shield" is completed as per the required electrical connections. But... if 
 
 I am using 4 Drv 8825 Polulu drivers for 3 Nema 23 stepper motors and 1 Nema 17 stepper motor. 
 
-2 Nema 23 go on the Y gantry opposite to each other hence Y and Y' where the 4 pin stepper connections are reversed and everything else is shared.
+2 Nema 23's go on the Y gantry opposite to each other hence Y and Y' where the 4 pin stepper connections are reversed and everything else is shared.
+
 1 Nema 23 goes on the X axis
-1 Nema 17 for the Z axis.
+
+and 1 Nema 17 for the Z axis.
 
 Here are my pinouts:
 
