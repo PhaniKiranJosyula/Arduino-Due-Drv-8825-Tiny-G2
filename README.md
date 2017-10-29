@@ -1,7 +1,9 @@
 # Arduino-Due-Drv-8825-Tiny-G2
 A "shield" and the compiled binary for Due being used for a CNC with drv 8825 and tiny G2
 
-The "shield" is completed as per the required electrical connections. But... if you want a refined version you might have to do it yourself.. feel free to use these files as you see fit.
+The "shield" is completed as per the required electrical connections But... if you want a refined version you might have to do it yourself.. feel free to use these files as you see fit.
+
+I have used a lot of jumpers to save me time while routing and to make it just simpler.. 
 
 I am using 4 Drv 8825 Polulu drivers for 3 Nema 23 stepper motors and 1 Nema 17 stepper motor. 
 
