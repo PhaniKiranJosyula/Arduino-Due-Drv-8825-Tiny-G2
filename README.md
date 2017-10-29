@@ -9,8 +9,6 @@ I am using 4 Drv 8825 Polulu drivers for 3 Nema 23 stepper motors and 1 Nema 17 
 1 Nema 23 goes on the X axis
 1 Nema 17 for the Z axis.
 
-I originally tried this config with Arduino UNO + CNC shield V3 (chinese clone) + 4 DRV8825. I was not pleased with the results hence this project.
-
 Here are my pinouts:
 
 
