@@ -50,3 +50,16 @@ Pin   -            Function
 50    -            M 2 MICRO STEPPING X Axis DRV8825
 
 52    -            M 1 MICRO STEPPING X Axis DRV8825
+
+53    -            Limit Switch X + (max)
+
+51    -            Limit Switch X - (min)
+
+49    -            Limit Switch Y + (max)
+
+47    -            Limit Switch Y - (min)
+
+45    -            Limit Switch Z + (max)
+
+43    -            Limit Switch Z - (min)
+
